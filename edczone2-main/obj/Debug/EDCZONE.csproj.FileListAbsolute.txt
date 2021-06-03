@@ -1,0 +1,48 @@
+D:\BC_TTCN2\TTCN2\Cty_edczone\bin\Debug\Edczone.mdf
+D:\BC_TTCN2\TTCN2\Cty_edczone\bin\Debug\Edczone_log.ldf
+D:\BC_TTCN2\TTCN2\Cty_edczone\bin\Debug\EDCZONE.exe.config
+D:\BC_TTCN2\TTCN2\Cty_edczone\bin\Debug\EDCZONE.exe
+D:\BC_TTCN2\TTCN2\Cty_edczone\bin\Debug\EDCZONE.pdb
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.csprojAssemblyReference.cache
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.Form1.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmBaoCaoHangTonKho.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmHoaDonBan.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmHoaDonNhapHang.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmKhachHang.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.frmMain.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmNhaCungCap.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmNhanVien.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmPhieuNhapKho.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmPhieuXuatKho.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmSanPham.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.FrmTimKiemSanPham.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.Properties.Resources.resources
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.csproj.GenerateResource.cache
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.csproj.CoreCompileInputs.cache
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.exe
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.pdb
+D:\BC_TTCN2\TTCN2\Cty_edczone\obj\Debug\EDCZONE.csproj.ResolveComReference.cache
+E:\New folder\edczone2-main\bin\Debug\Edczone.mdf
+E:\New folder\edczone2-main\bin\Debug\Edczone_log.ldf
+E:\New folder\edczone2-main\bin\Debug\EDCZONE.exe.config
+E:\New folder\edczone2-main\bin\Debug\EDCZONE.exe
+E:\New folder\edczone2-main\bin\Debug\EDCZONE.pdb
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.csproj.AssemblyReference.cache
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.csproj.ResolveComReference.cache
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.Form1.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmBaoCaoHangTonKho.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmHoaDonBan.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmHoaDonNhapHang.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmKhachHang.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.frmMain.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmNhaCungCap.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmNhanVien.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmPhieuNhapKho.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmPhieuXuatKho.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmSanPham.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.FrmTimKiemSanPham.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.Properties.Resources.resources
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.csproj.GenerateResource.cache
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.csproj.CoreCompileInputs.cache
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.exe
+E:\New folder\edczone2-main\obj\Debug\EDCZONE.pdb
